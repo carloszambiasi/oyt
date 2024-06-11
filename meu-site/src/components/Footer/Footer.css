@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+  }
+  
+  .contact-info {
+    font-size: 14px;
+  }
+  
+  .social-links a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
